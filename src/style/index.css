@@ -1,0 +1,12 @@
+.add-new-task{
+    cursor: pointer;
+    height: 30px;
+    width: 150px;
+    border: solid 1px coral;
+    text-align: center;
+    line-height: 30px;
+}
+
+button{
+    cursor: pointer;
+}
